@@ -10,7 +10,6 @@
 # Local .terraform directories
 **/.terraform/*
 planfile
-terraform-state/
 .gitignore
 terraform.tfvars
 
